@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\bin\Debug\CircumCenter3D.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\bin\Debug\CircumCenter3D.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\bin\Debug\CircumCenter3D.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\obj\Debug\CircumCenter3D.CircumCenter3D_Page.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\obj\Debug\CircumCenter3D.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\obj\Debug\CircumCenter3D.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\obj\Debug\CircumCenter3D.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\CircumCenter3D\obj\Debug\CircumCenter3D.pdb

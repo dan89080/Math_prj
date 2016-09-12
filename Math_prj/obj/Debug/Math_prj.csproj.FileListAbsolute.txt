@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\bin\Debug\Math_prj.exe.config
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\bin\Debug\Math_prj.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\bin\Debug\Math_prj.pdb
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\obj\Debug\Math_prj.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\obj\Debug\Math_prj.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\obj\Debug\Math_prj.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\obj\Debug\Math_prj.exe
+C:\Users\ASUS\Desktop\projects\0 some projects\ShinFu\Math_prj\Math_prj\obj\Debug\Math_prj.pdb
